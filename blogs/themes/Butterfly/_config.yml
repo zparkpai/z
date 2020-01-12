@@ -52,8 +52,8 @@ copy:
 #   icon: link
 # ---------------
 social:
-  fa fa-github: https://github.com/jerryc127
-  fa fa-envelope: mailto:xxxxxxxx@gmail.com
+  fa fa-github: https://zparkpai.github.io/
+  fa fa-envelope: mailto:1603963697@qq.com
   fa fa-rss: /atom.xml
 
 ####    search    ####
@@ -101,7 +101,7 @@ katex:
 avatar: /img/avatar.png
 
 # the banner image of index
-index_img: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/index.jpg
+index_img: https://zparkpai.github.io/img/index.jpg
 
 # if the banner of page not setting,it will show the top_img
 default_top_img: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/index.jpg
@@ -180,9 +180,9 @@ addtoany:
 # ------------------------------------
 # Disqus 官方版評論系統
 disqus:
-  enable: false
+  enable: true
   shortname:
-  count: false # top_img顯示評論數
+  count: true # top_img顯示評論數
 
 # Disqus.js 版評論系統，應對大陸長城的折中方案，兼容原版：https://github.com/SukkaW/DisqusJS 
 # API 申請地址：https://disqus.com/api/applications/
@@ -277,17 +277,17 @@ qihu_site_verification:
 
 # 友情鏈接界面設置
 Flink:
-  headline: 友情鏈接
+  headline: 友情连接
   info_headline: 我的Blog資料
-  name: Blog 名字： JerryC
-  address: Blog 地址： https://jerryc.me/
-  avatar: Blog 頭像： https://jerryc.me/img/avatar.png
-  info: Blog 簡介： 今日事,今日畢
-  comment: 如果需要交換友鏈,請留言
+  name: Blog 名字： zparkpai
+  address: Blog 地址： https://zparkpai.github.io/
+  avatar: Blog 頭像： https://zparkpai.github.io/img/avatar.png
+  info: Blog 简介： 今日事,今日畢
+  comment: 如果需要交换友链,请留言
 
 # 打賞按鈕
 reward:
-  enable: true
+  enable: false
   QR_code:
     - itemlist:
         img: /img/wechat.jpg
@@ -341,7 +341,7 @@ tag_ui: # 留空或index
 # 圖片格式 background: url(http://xxxxxx.com/xxx.jpg)
 # 顔色 background: '#49B202'
 # 留空 顯示白色
-background:
+background: '#808080'
 
 # footer是否顯示圖片背景(與top_img一致)
 footer_bg: false
@@ -453,8 +453,8 @@ subtitle:
   source: false
   # (如果有英文逗號' , '，請使用轉義字符 &#44;)
   sub:
-    - 今日事&#44;今日畢
-    - Never put off till tomorrow what you can do today
+    - 学问浅薄&#44;如履薄冰
+    - A little learning is a dangerous thing.
 
 ####    側邊欄    ####
 #-------------------------------------
@@ -474,7 +474,7 @@ aside:
 
 # 網站公告
 announcement:
-  content: 感謝訪問本站，若喜歡請收藏 ^_^
+  content: 感谢访问~
 
 # busuanzi count for PV / UV in site
 # 訪問人數
@@ -488,7 +488,7 @@ busuanzi:
 # 也可以寫成 年/月/日 時間
 runtimeshow:
   enable: true
-  start_date: 6/7/2018 00:00:00
+  start_date: 1/11/2020 00:00:00
 
 ####   右下角按鈕  ####
 #----------------------------------------------
