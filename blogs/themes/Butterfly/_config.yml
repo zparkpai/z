@@ -107,7 +107,11 @@ index_img: https://zparkpai.github.io/img/index.jpg
 default_top_img: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/index.jpg
 
 # the default cover of the post
-default_cover: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/default.png
+default_cover:
+  - https://zparkpai.github.io/img/01.jpg
+  - https://zparkpai.github.io/img/02.jpg
+  - https://zparkpai.github.io/img/03.jpg
+  - https://zparkpai.github.io/img/04.jpg
 
 # the banner image of archive page
 archive_img: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/archive.jpg
